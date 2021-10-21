@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lalabhaisolanki/country-flag/static/css/main.667ca948.chunk.css",
+    "main.js": "/lalabhaisolanki/country-flag/static/js/main.59646591.chunk.js",
+    "main.js.map": "/lalabhaisolanki/country-flag/static/js/main.59646591.chunk.js.map",
+    "runtime-main.js": "/lalabhaisolanki/country-flag/static/js/runtime-main.f0c91d93.js",
+    "runtime-main.js.map": "/lalabhaisolanki/country-flag/static/js/runtime-main.f0c91d93.js.map",
+    "static/js/2.1b2b931a.chunk.js": "/lalabhaisolanki/country-flag/static/js/2.1b2b931a.chunk.js",
+    "static/js/2.1b2b931a.chunk.js.map": "/lalabhaisolanki/country-flag/static/js/2.1b2b931a.chunk.js.map",
+    "static/js/3.8a884dde.chunk.js": "/lalabhaisolanki/country-flag/static/js/3.8a884dde.chunk.js",
+    "static/js/3.8a884dde.chunk.js.map": "/lalabhaisolanki/country-flag/static/js/3.8a884dde.chunk.js.map",
+    "index.html": "/lalabhaisolanki/country-flag/index.html",
+    "static/css/main.667ca948.chunk.css.map": "/lalabhaisolanki/country-flag/static/css/main.667ca948.chunk.css.map",
+    "static/js/2.1b2b931a.chunk.js.LICENSE.txt": "/lalabhaisolanki/country-flag/static/js/2.1b2b931a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0c91d93.js",
+    "static/js/2.1b2b931a.chunk.js",
+    "static/css/main.667ca948.chunk.css",
+    "static/js/main.59646591.chunk.js"
+  ]
+}
